@@ -33,7 +33,7 @@ Search data from data.json file.
     ```
 3.  Input:
     ```shell
-    $ ruby search.rb Interpreted "Thomas Eugene"
+    $ ruby search.rb Scripting Microsoft
     ```
     Ouput:
     ```shell

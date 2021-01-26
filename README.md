@@ -10,7 +10,7 @@ Search data from data.json file.
     ```sh
     $ cd search_data
     ```
-3. Run command
+3. Run command:
    ```shell
     $ ruby search.rb search_values
     ```
@@ -25,11 +25,11 @@ Search data from data.json file.
     ```
 2.  Input:
     ```shell
-    $ ruby search.rb Scripting Microsoft
+    $ ruby search.rb Lisp Common
     ```
     Ouput:
     ```shell
-    BASIC
+    Common Lisp
     ```
 3.  Input:
     ```shell
